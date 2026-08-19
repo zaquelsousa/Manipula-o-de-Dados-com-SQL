@@ -1,5 +1,3 @@
--- Criando as tabelas do BDs
-
 CREATE TABLE Forcedores(
 --	se nao for fazer operaçoes aritimeticas, entao nao tem sentido usar numero,ai pra otimizar usa char msm
 	Codigo char(3) PRIMARY KEY,
