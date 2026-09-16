@@ -83,6 +83,7 @@ there are a number of datatypes in sql:
 
 and of course each SGBD can have it's own types
 
-## Basic commands
-okay with the table create it's time to manipulate some data ieeeeee
+## lets review some SQL commands
+- [INSERT, UPDATE and DELETE data](./Basic-commands.md)
+
 
