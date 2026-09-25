@@ -84,6 +84,6 @@ there are a number of datatypes in sql:
 and of course each SGBD can have it's own types
 
 ## lets review some SQL commands
-- [INSERT, UPDATE and DELETE data](./Basic-commands.md)
-
+- [INSERT, UPDATE and DELETE data](INSERT,%20UPDATE%20and%20DELETE%20data.md)
+- Lets [[backend-roadmap/SQL/select|select]] data
 

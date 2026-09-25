@@ -1,5 +1,3 @@
-# INSERT, UPDATE and DELETE data
-
 we already see the `CREATE` command but how we add data on the table? we can do that with the help of `INSERT`
 
 like that:
